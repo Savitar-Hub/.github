@@ -1,4 +1,4 @@
-## 👋 Hello and welcome to our organization's GitHub!
+## 👋 Hello and welcome to Savitar Hub!
 
 🚀 **Savitar** is focused on building innovative web applications that utilize the latest in s**oftware engineering** and **machine learning algorithms** to deliver state-of-the-art solutions to our customers.
 
